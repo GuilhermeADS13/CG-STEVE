@@ -8,6 +8,4 @@ function desenha() {
   atualizarMatriz();
 }
 
-// TODO: a animação entra aqui, com requestAnimationFrame
-
 atualiza();
